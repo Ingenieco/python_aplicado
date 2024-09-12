@@ -21,4 +21,4 @@ El siguiente repositorio tiene como propósito mostrar algunas aplicaciones de p
 
 ## Autores
 - [Carlos Gutiérrez - @ingenieco](https://github.com/Ingenieco)
-- - [Carlos Gutiérrez - @LinkedIn]([https://github.com/Ingenieco](https://www.linkedin.com/in/ingenieco-cegu/))
+- [Carlos Gutiérrez - @LinkedIn]([https://github.com/Ingenieco](https://www.linkedin.com/in/ingenieco-cegu/))
